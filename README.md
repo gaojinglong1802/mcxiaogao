@@ -9,6 +9,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@mcxiaolan-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/mcxiaolan)
 
-[![QQ](https://img.shields.io/badge/QQ-3587687438-00BFFF?logo=QQ&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=Zg1ZzPTytddHL8PVPIV7nWkaGLDMz9cn&noverify=0)
+[![QQ](https://img.shields.io/badge/QQ-184439103-00BFFF?logo=QQ&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=lA4SccetMtrCf6vyTfXWW_zRJ07wZBct&noverify=0)
 
-[![Email](https://img.shields.io/badge/-3587687438@qq.com-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:3587687438@qq.com)
+[![Email](https://img.shields.io/badge/-184439103@qq.com-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:184439103@qq.com)

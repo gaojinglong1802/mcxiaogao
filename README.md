@@ -3,11 +3,11 @@
 
 ## My website：
 
-[Homepage](http://www.isuii.top) - [Blog](http://blog.isuii.top) - [Forum](https://forum.isuii.top)
+[Homepage](http://www.isuii.top) - [Blog](https://404.isuii.top) - [Forum](https://404.isuii.top)
 
 ## Contact me：
 
-[![Telegram](https://img.shields.io/badge/Telegram-@gaojinglong-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](http://404.isuii.top)
+[![Telegram](https://img.shields.io/badge/Telegram-@gaojinglong-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://404.isuii.top)
 
 [![QQ](https://img.shields.io/badge/QQ-184439103-00BFFF?logo=QQ&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=lA4SccetMtrCf6vyTfXWW_zRJ07wZBct&noverify=0)
 
